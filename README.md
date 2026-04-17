@@ -5,5 +5,5 @@ Learning purpose
 
 You can use these example files for database/data upload:
 
-- `/home/runner/work/data_analyst/data_analyst/examples/example_database.sql`
-- `/home/runner/work/data_analyst/data_analyst/examples/example_data.csv`
+- `examples/example_database.sql`
+- `examples/example_data.csv`
